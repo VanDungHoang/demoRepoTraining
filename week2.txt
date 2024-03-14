@@ -1,2 +1,0 @@
-this is week2.txt file 
-from branch: week2
